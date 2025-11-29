@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91552b2fc7184401904a9122d00c646f, type: 3}
+  m_Name: CollectAncientScrollQuest
+  m_EditorClassIdentifier: 
+  id: CollectAncientScrollQuest
+  displayName: Collect Ancient Scroll
+  description: A worried man asks you to venture into the dungeon and retrieve an
+    Ancient Scroll hidden deep within its chambers.
+  questPrerequisites: []
+  questSteps:
+  - {fileID: 8449186893032679638, guid: 91c2ff9d25b127548a01d3586a2b53f1, type: 3}
+  - {fileID: 7637096323578264047, guid: 6ff9dbe7a42eda7429ccac03a3d9471f, type: 3}
+  goldReward: 100

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43449efa009c2c641b614e27a9aab064, type: 3}
+  m_Name: ChickenLeg
+  m_EditorClassIdentifier: 
+  itemID: 8
+  itemName: Chicken Leg
+  itemType: 2
+  itemPrefab: {fileID: 7336216937811258066, guid: 112215925bb5334408b09b15b0f2d939, type: 3}
+  itemIcon: {fileID: 21300000, guid: 14e62563269c11443b9c936be93b95f4, type: 3}
+  maxStackSize: 10
+  goldValue: 10
+  itemDescription: A roasted chicken leg. Hearty and flavorful. Restores a moderate
+    amount of health.
+  healthRestoreAmount: 7

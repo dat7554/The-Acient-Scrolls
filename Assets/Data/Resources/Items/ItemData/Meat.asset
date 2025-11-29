@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43449efa009c2c641b614e27a9aab064, type: 3}
+  m_Name: Meat
+  m_EditorClassIdentifier: 
+  itemID: 1
+  itemName: Meat
+  itemType: 2
+  itemPrefab: {fileID: 6199928454245446417, guid: 6bd07d876a5371548b9f7787bdcb69c1, type: 3}
+  itemIcon: {fileID: 21300000, guid: 14e62563269c11443b9c936be93b95f4, type: 3}
+  maxStackSize: 10
+  goldValue: 10
+  itemDescription: A piece of well-cooked meat. Satisfying and rich in flavor, it
+    helps restore your strength.
+  healthRestoreAmount: 7
