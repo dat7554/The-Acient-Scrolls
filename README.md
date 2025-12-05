@@ -8,6 +8,8 @@ A 3D RPG prototype featuring dungeon exploration, narrative progression, and int
 - **Interactive World:** Interact with NPCs to trade items and progress the story.
 
 ## Gameplay & Screenshots
+[Gameplay Demo](https://youtu.be/1DpH4dtubGQ?si=44-__G5cR8ZRsNw5)
+
 <p align="center">
 <img width="1578" height="867" alt="image" src="https://github.com/user-attachments/assets/666ad474-efa9-477d-a831-1463eb67f29c" />
 </p>
