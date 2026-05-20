@@ -34,12 +34,9 @@ A 3D RPG prototype featuring dungeon exploration, narrative progression, and int
 - NPC interaction for trading and story progression
 - Branching narrative system powered by **Ink**
 
----
-
-## 🛠️ Built With
+## Tech Stack
 
 - Unity version 6000.0.32f1.
-- NavMesh
 - [Ink](https://www.inklestudios.com/ink/).
 
 ---
